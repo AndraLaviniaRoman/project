@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/wolterskluwer/reg/commons/commons-command-impl/1.7.46-SNAPSHOT/commons-command-impl-1.7.46-SNAPSHOT.jar!/com/wkfsfrc/platform/command/repository/DefaultCommandRepository.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/wolterskluwer/reg/commons/commons-command-impl/1.7.46-SNAPSHOT/commons-command-impl-1.7.46-SNAPSHOT.jar!/com/wkfsfrc/platform/command/router/CommandRouter.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/wolterskluwer/reg/commons/commons-command-impl/1.7.46-SNAPSHOT/commons-command-impl-1.7.46-SNAPSHOT.jar!/com/wkfsfrc/platform/command/router/DefaultCommandRouter.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/wolterskluwer/reg/commons/commons-command-impl/1.7.46-SNAPSHOT/commons-command-impl-1.7.46-SNAPSHOT.jar!/com/wkfsfrc/platform/command/service/DefaultCommandService.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/wolterskluwer/reg/commons/commons-command-model/1.7.46-SNAPSHOT/commons-command-model-1.7.46-SNAPSHOT.jar!/com/wkfsfrc/platform/command/model/CommandExecutionBO.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/wolterskluwer/reg/commons/commons-command-rest/1.7.46-SNAPSHOT/commons-command-rest-1.7.46-SNAPSHOT.jar!/com/wkfsfrc/platform/command/mapper/CommandExecutionMapper.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/wolterskluwer/reg/commons/commons-command-rest/1.7.46-SNAPSHOT/commons-command-rest-1.7.46-SNAPSHOT.jar!/com/wkfsfrc/platform/command/service/CommandExecutionRestService.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/wolterskluwer/reg/commons/commons-database/1.7.119.Techies_19882-SNAPSHOT/commons-database-1.7.119.Techies_19882-SNAPSHOT.jar!/com/wkfsfrc/commons/database/model/DatabaseType.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/Admin/admin-integration-test/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/Admin/admin-integration-test/target/admin-resources-unziped/admin-resources/bin/scripts/swarm/add-datasource.cmd">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/Admin/admin-integration-test/target/test-classes/standalone.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/Admin/admin-resources/src/main/resources/add-datasource.cmd">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/Admin/admin-rest/src/main/java/com/wolterskluwer/reg/admin/rest/service/datasourceparser/AddDataSourceRestService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/Admin/admin-utils/admin-utils.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/Admin/admin-utils/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/Admin/admin-utils/src/main/java/com/wolterskluwer/reg/admin/datasourceparser/DataSourceOperations.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/Admin/admin-utils/src/main/java/com/wolterskluwer/reg/admin/datasourceparser/XmlParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/Admin/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/Commons/commons/commons-command-impl/src/main/java/com/wkfsfrc/platform/command/repository/CommandExecutionDomainDaoMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/Commons/commons/commons-command-impl/src/main/java/com/wkfsfrc/platform/command/repository/DefaultCommandRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/Commons/commons/commons-command-model/src/main/java/com/wkfsfrc/platform/command/model/CommandExecutionBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/Commons/commons/commons-system-dao-api/src/main/java/com/wolterskluwer/reg/commons/system/dao/service/BaseDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/Commons/commons/commons-system-dao-impl/src/main/resources/META-INF/persistence.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/Parent/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/ProcessingEngine/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/ProcessingEngine/test/test-webapp/src/main/java/com/wolterskluwer/newreg/driver/CommandExecutionResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/ReportingHub/distribution/reporting-installer/src/main/java/com/wkfsfrc/platform/installer/Installer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/ReportingHub/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../NewReg/ReportingHub/reporting-test/reporting-integration-test/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-api/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-api/src/main/java/edu/codespring/blog/dto/LoginDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-api/src/main/java/edu/codespring/blog/service/BlogRestService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-api/src/main/java/edu/codespring/blog/service/SecurityRestService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/src/main/java/edu/codespring/blog/MainClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/src/main/java/edu/codespring/blog/dao/AbstractJpaDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/src/main/java/edu/codespring/blog/dao/BaseDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/src/main/java/edu/codespring/blog/dao/BaseDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/src/main/java/edu/codespring/blog/dao/BlogPostDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/src/main/java/edu/codespring/blog/dao/BlogPostDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/src/main/java/edu/codespring/blog/dao/Dao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/src/main/java/edu/codespring/blog/dao/Initializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/src/main/java/edu/codespring/blog/dao/Initiliazer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/src/main/java/edu/codespring/blog/dao/mem/AbstractMemDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/src/main/java/edu/codespring/blog/dao/mem/BlogPostMemDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/src/main/java/edu/codespring/blog/model/BaseEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/src/main/java/edu/codespring/blog/model/BlogPost.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/src/main/java/edu/codespring/blog/service/BlogPostService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/src/main/java/edu/codespring/blog/service/impl/AbstractBlogPost.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/src/main/java/edu/codespring/blog/service/impl/BlogPostDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/src/main/java/edu/codespring/blog/service/impl/BlogPostServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/src/main/resources/META-INF/blogpost-ds.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-backend/src/main/resources/META-INF/persistence.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-embedded/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-embedded/src/main/java/EmbeddedServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-embedded/src/main/java/edu/codespring/blog/embedded/EmbeddedServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-embedded/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-rest/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-rest/src/main/java/edu/codespring/blog/BlogRestService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-rest/src/main/java/edu/codespring/blog/dto/LoginDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-rest/src/main/java/edu/codespring/blog/dto/UserTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-rest/src/main/java/edu/codespring/blog/service/BlogRestService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-rest/src/main/java/edu/codespring/blog/service/SecurityRestService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-rest/src/main/java/edu/codespring/blog/to/BlogPostTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-rest/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-server/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-server/target/application.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-web/blog-web.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-web/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-web/src/main/java/edu/codespring/blog/servlet/BlogPostServlet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-web/src/main/java/edu/codespring/blog/servlet/FreemarkerFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-web/src/main/java/edu/codespring/blog/servlet/FreemarkerProducer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-web/src/main/resources/META-INF/beans.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-web/target/classes/edu/codespring/blog/servlet/BlogPostServlet.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-web/target/classes/edu/codespring/blog/servlet/FreemarkerFactory.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/blog-web/target/classes/views/blogPosts.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/nskdf/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/edu/codespring/blog/embedded/EmbeddedServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/checkout/NewReg/Branches/AdminConsole_techies_19882/admin-dto/src/main/java/com/wolterskluwer/reg/admin/ReportGeneratorConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/checkout/NewReg/Branches/AdminConsole_techies_19882/admin-rest/src/main/java/com/wolterskluwer/reg/admin/rest/service/ReportingModuleRestService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/checkout/NewReg/Branches/AdminConsole_techies_19882/admin-rest/src/main/java/com/wolterskluwer/reg/admin/rest/service/WorkspaceRestService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/checkout/NewReg/Branches/AdminConsole_techies_19882/admin-rgtng-driver/src/main/java/com/wolterskluwer/reg/admin/rgtng/driver/CreateBusinessDatabaseExecutorImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/checkout/NewReg/Branches/AdminConsole_techies_19882/admin-rgtng-driver/src/main/java/com/wolterskluwer/reg/admin/rgtng/driver/UpgradeBusinessDatabaseExecutorImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/checkout/NewReg/Branches/AdminConsole_techies_19882/admin-rgtng-driver/src/main/resources/configuration/commands/create-business-database-command-type.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/checkout/NewReg/Branches/AdminConsole_techies_19882/admin-rgtng-driver/src/main/resources/configuration/commands/upgrade-business-database-command-type.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/checkout/NewReg/Branches/AdminConsole_techies_19882/admin-service-impl/src/main/java/com/wolterskluwer/reg/admin/service/impl/reportgenerator/database/DatabaseOperationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/checkout/NewReg/Branches/AdminConsole_techies_19882/admin-service-impl/src/main/java/com/wolterskluwer/reg/admin/service/impl/workspace/WorkspaceActionsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/checkout/NewReg/Branches/AdminConsole_techies_19882/admin-service-impl/src/main/java/com/wolterskluwer/reg/admin/service/impl/workspace/WorkspaceMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/checkout/NewReg/Branches/AdminConsole_techies_19882/admin-service-impl/src/main/java/com/wolterskluwer/reg/admin/service/impl/workspace/WorkspaceServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/checkout/NewReg/Branches/AdminConsole_techies_19882/admin-service-impl/src/test/java/com/wolterskluwer/reg/admin/service/impl/workspace/WorkspaceRetrievalServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/checkout/NewReg/Branches/Common_techies_19882/commons/commons-system-dao-api/src/main/java/com/wolterskluwer/reg/commons/system/dao/model/WorkspaceStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
